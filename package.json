@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.5.2",
-    "express": "^4.16.2"
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "nodemailer": "^4.4.2"
   }
 }
